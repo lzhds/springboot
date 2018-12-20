@@ -6,6 +6,7 @@ public class thread3 implements Runnable {
 
     @Override
     public void run() {
+        System.out.println("1321313454");
         try {
             sleep(100);
         } catch (InterruptedException e) {
