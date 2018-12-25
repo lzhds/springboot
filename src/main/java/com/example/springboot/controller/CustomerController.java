@@ -55,6 +55,8 @@ public class CustomerController {
         String name=p.getProperty("name");
         System.out.println(id+"     "+name);
 
+
+
     }
 
 
